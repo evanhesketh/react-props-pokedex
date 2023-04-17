@@ -1,6 +1,8 @@
 import Pokedex from "./Pokedex";
 import "./App.css";
 
+
+/** Renders Pokedex component */
 function App() {
   return (
     <div className="App">
@@ -19,5 +21,5 @@ function App() {
     </div>
   );
 }
-
+///can move array outside component
 export default App;
